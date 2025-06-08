@@ -36,7 +36,7 @@ Este repositorio contiene el desarrollo completo de la actividad relacionada con
 
 ##  Requisitos
 
-- Python 3.8+
+- Python +
 - Librerías:
   - `deepface`
   - `transformers`
