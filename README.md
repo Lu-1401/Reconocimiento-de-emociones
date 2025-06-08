@@ -21,11 +21,11 @@ Este repositorio contiene el desarrollo completo de la actividad relacionada con
 
 4. **Revisión de tecnologías actuales en Análisis de Sentimientos**
    - Tecnologías utilizadas:
-     - `DeepFace` (análisis emocional con imágenes)
-     - `VADER` (modelo basado en reglas para texto)
-     - `TextBlob` (modelo simple de NLP)
-     - `BERT` (modelo de transformer de Google)
-     - `RoBERTa` (optimizador de BERT)
+     - DeepFace` (análisis emocional con imágenes)
+     - VADER` (modelo basado en reglas para texto)
+     - TextBlob` (modelo simple de NLP)
+     - BERT` (modelo de transformer de Google)
+     - RoBERTa` (optimizador de BERT)
    - Se incluyen ejemplos en Python para cada una.
 
 5. **Documentación en Overleaf**
@@ -38,11 +38,11 @@ Este repositorio contiene el desarrollo completo de la actividad relacionada con
 
 - Python +
 - Librerías:
-  - `deepface`
-  - `transformers`
-  - `textblob`
-  - `vaderSentiment`
-  - `opencv-python`
+  - deepface
+  - transformers
+  - textblob
+  - vaderSentiment
+  - opencv-python
 
 Instala todas las dependencias:
 ```bash
