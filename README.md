@@ -34,7 +34,7 @@ Este repositorio contiene el desarrollo completo de la actividad relacionada con
 
 ---
 
-## 🧠 Requisitos
+##  Requisitos
 
 - Python 3.8+
 - Librerías:
