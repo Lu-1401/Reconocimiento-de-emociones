@@ -33,7 +33,7 @@ Este repositorio contiene el desarrollo completo de la actividad relacionada con
    - Se encuentra en la carpeta `Documentacion/`.
 
 ---
-
+    
 ##  Requisitos
 
 - Python +
@@ -45,5 +45,12 @@ Este repositorio contiene el desarrollo completo de la actividad relacionada con
   - opencv-python
 
 Instala todas las dependencias:
-```bash
-pip install -r requirements.txt
+``bash
+
+✍️ Autor
+
+   Nombre: Luisa Moreno
+
+   Curso: Sistemas Digitales
+
+   Institución: Universidad Santo thomas
