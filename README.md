@@ -43,6 +43,7 @@ Este repositorio contiene el desarrollo completo de la actividad relacionada con
   - textblob
   - vaderSentiment
   - opencv-python
+  
 ---
 
 ✍️ Autor
